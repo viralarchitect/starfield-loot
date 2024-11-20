@@ -551,7 +551,7 @@ plugins:
 ###### Resources & Frameworks ######
 ###### AudioVisual ######
 ###### AudioVisual - Animations & Physics ######
-  - name: 'MoreDramaticGravJumps.es[mp]'
+  - name: 'MoreDramaticGravJumps\.es[mp]'
     url:
       - link: 'https://www.nexusmods.com/starfield/mods/2413/'
         name: 'More Dramatic Grav Jumps'
@@ -592,7 +592,7 @@ plugins:
         condition: 'checksum("RealisticDamageMultipliers.esm", CBC568FF)'
 
 ###### Gameplay - Crafting & Harvesting ######
-  - name: 'legendaries.es[mp]'
+  - name: 'legendaries\.es[mp]'
     url:
       - link: 'https://www.nexusmods.com/starfield/mods/1379/'
         name: 'Legendary Modifications'
