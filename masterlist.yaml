@@ -628,8 +628,6 @@ plugins:
 ###### 3RD Party Patches ######
 
 ###### Anything new can go after this (If you're not sure where to put it) ######
-
-###### Late Fixes & Changes ######
   - name: 'final patch.esm'
     url:
       - link: 'https://www.nexusmods.com/starfield/mods/12072/'
